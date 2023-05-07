@@ -30,8 +30,7 @@ DEBUG = True
 ALLOWED_HOSTS = ['cjits.azurewebsites.net']
 CSRF_COOKIE_SECURE=True
 CSRF_COOKIE_SAMESITE = 'Strict'
-CSRF_TRUSTED_ORIGINS = ALLOWED_HOSTS.copy()
-
+CSRF_TRUSTED_ORIGINS = ['https://cjits.azurewebsites.net']
 
 # Application definition
 
