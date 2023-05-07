@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-9=_ic$8k8su$s#*0e-3w=6ty3%u3b6!5(08z2ku-n#zdo79jb8
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['cjits.azurewebsites.net','localhost']
+ALLOWED_HOSTS = ['cjits.azurewebsites.net']
 CSRF_COOKIE_SECURE=True
 CSRF_COOKIE_SAMESITE = 'Strict'
 CSRF_TRUSTED_ORIGINS = ALLOWED_HOSTS.copy()
