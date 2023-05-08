@@ -1,6 +1,6 @@
-# CJITS Christu Jyothi institute of technology and science
+# 🔸🔸CJITS Christu Jyothi institute of technology and science🔸🔸
 
-About this project:
+### About this project:
 This project is the full stack development regarding to the Django web-framework
 This website enables the users in the college CJITS(Christu Jyothi Institute of Technology and Science) which is located in the Jangaon Telangana
 
@@ -8,17 +8,21 @@ A college website is a digital platform that is used by colleges and universitie
 
 Some of the common features and resources that are available on a college website include:
 
-1)Chat: Some college websites have chat features that allow students to communicate with advisors, professors, and peers in real-time. This can be a useful tool for getting quick answers to questions or for discussing coursework or academic concerns.
+ #### Chat: 
+ Some college websites have chat features that allow students to communicate with advisors, professors, and peers in real-time. This can be a useful tool for getting quick answers to questions or for discussing coursework or academic concerns.
 
-2)Video Upload: College websites also often have the option for faculty and students to upload videos related to their academic work or other projects. This can be helpful for sharing presentations, lectures, or other visual content with classmates or professors.
+#### Video Upload:
+College websites also often have the option for faculty and students to upload videos related to their academic work or other projects. This can be helpful for sharing presentations, lectures, or other visual content with classmates or professors.
 
-3)Learning Modules: Many college websites offer online learning modules and resources to support students' academic success. These may include study guides, tutorials, and other tools to help students master course materials and prepare for exams.
+#### Learning Modules:
+Many college websites offer online learning modules and resources to support students' academic success. These may include study guides, tutorials, and other tools to help students master course materials and prepare for exams.
 
-4)Connectivity through Campus: College websites can also facilitate connectivity among the campus community. This can be done through online directories, social media integration, and other features that allow students, faculty, and staff to connect and collaborate.
+#### Connectivity through Campus: 
+College websites can also facilitate connectivity among the campus community. This can be done through online directories, social media integration, and other features that allow students, faculty, and staff to connect and collaborate.
 
-5)Overall, college websites are an important resource for students, faculty, staff, and other stakeholders. They provide a centralized location for accessing information, resources, and support, and can help to foster a sense of community and connection among members of the college community.
+Overall, college websites are an important resource for students, faculty, staff, and other stakeholders. They provide a centralized location for accessing information, resources, and support, and can help to foster a sense of community and connection among members of the college community.
 
-Especially need to Thank 
+## Especially need to Thank 
 Fr.T. Augustine Reddy(Director of CJITS),
 Dr.Chandrashekhar Reddy.S(Principal of CJITS),
 M.Ramaraju(HOD of the department COMPUTER SCIENCE AND ENGINEERING)
