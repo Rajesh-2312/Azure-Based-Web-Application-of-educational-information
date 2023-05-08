@@ -1,3 +1,5 @@
+# CJITS Christu Jyothi institute of technology and science
+
 About this project:
 This project is the full stack development regarding to the Django web-framework
 This website enables the users in the college CJITS(Christu Jyothi Institute of Technology and Science) which is located in the Jangaon Telangana
