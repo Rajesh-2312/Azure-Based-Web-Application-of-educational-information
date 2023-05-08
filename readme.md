@@ -1,10 +1,18 @@
 # 🔸🔸CJITS Christu Jyothi institute of technology and science🔸🔸
+This is the web based application developed for the students in a college and use by the students who need to use the resources in that college.
 
-### About this project:
+### This web based application is based on education and campus connectivity that has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime.Quess, Github and EY.
+
+**project link** - https://cjits.azurewebsites.net
+** project demo video link **
+
+### About this project:☺️
 This project is the full stack development regarding to the Django web-framework
 This website enables the users in the college CJITS(Christu Jyothi Institute of Technology and Science) which is located in the Jangaon Telangana
 
 A college website is a digital platform that is used by colleges and universities to provide information and resources to their students, faculty, staff, and other stakeholders. These websites typically serve as a central hub for all aspects of college life, including academics, campus news, events, resources, and services.
+
+## Features and Functionalities 😊
 
 Some of the common features and resources that are available on a college website include:
 
@@ -22,10 +30,26 @@ College websites can also facilitate connectivity among the campus community. Th
 
 Overall, college websites are an important resource for students, faculty, staff, and other stakeholders. They provide a centralized location for accessing information, resources, and support, and can help to foster a sense of community and connection among members of the college community.
 
-## Especially need to Thank 
+## Especially need to Thank 🤝
 Fr.T. Augustine Reddy(Director of CJITS),
 Dr.Chandrashekhar Reddy.S(Principal of CJITS),
 M.Ramaraju(HOD of the department COMPUTER SCIENCE AND ENGINEERING)
 to give this oppurtunity to develop this kind of project and motivates me.
+
+## Tech Stack 🔷
+- [Azure(Hosting)](https://cjits.azurewebsites.net)
+- Python
+- Django webframework
+- sqlite3
+- html
+- css
+- bootsrap
+- javascript
+- ajax
+
+## Azure Technologies used for project
+* Azure webapp
+* resource group
+* Active Directory
 
 
