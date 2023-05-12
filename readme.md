@@ -52,4 +52,19 @@ to give this oppurtunity to develop this kind of project and motivates me.
 * resource group
 * Active Directory
 
+# Screenshots
+![Screenshot (115)](https://github.com/Rajesh-2312/cjits/assets/96004426/2891bcea-19fb-48fc-9a74-2f1b268a7d69)
+![Screenshot (116)](https://github.com/Rajesh-2312/cjits/assets/96004426/b772cf49-07c7-4df6-b0f1-2c38cdca64ed)
+![Screenshot (117)](https://github.com/Rajesh-2312/cjits/assets/96004426/7cd9d0d4-cf8c-47d4-864e-a997b3aec176)
+![Screenshot (118)](https://github.com/Rajesh-2312/cjits/assets/96004426/d577cafb-6c74-4554-a25e-0d269ce749d7)
+![Screenshot (119)](https://github.com/Rajesh-2312/cjits/assets/96004426/61dceea0-be21-4c01-8eca-0ef13b14e18f)
+![Screenshot (121)](https://github.com/Rajesh-2312/cjits/assets/96004426/bca2fdb8-cdff-4e81-8f75-5e1e6eb68ddb)
+![Screenshot (122)](https://github.com/Rajesh-2312/cjits/assets/96004426/83fbe722-1e9d-4810-ab52-7ac369fed760)
+![Screenshot (129)](https://github.com/Rajesh-2312/cjits/assets/96004426/5dccf9fc-8cc5-4bb0-8dc6-cdd5f8ee74bb)
+![Screenshot (130)](https://github.com/Rajesh-2312/cjits/assets/96004426/4684d39b-e6b1-4d6b-9169-416d4261b296)
+![Screenshot (135)](https://github.com/Rajesh-2312/cjits/assets/96004426/aceef64d-1a55-4afa-8167-270e6c1def1b)
+![Screenshot (131)](https://github.com/Rajesh-2312/cjits/assets/96004426/1b8653dc-69c1-405d-bbd3-b0924ea3c557)
+![Screenshot (132)](https://github.com/Rajesh-2312/cjits/assets/96004426/836d68b9-d084-4b15-a5b2-c2b257beab0d)
+![Screenshot (128)](https://github.com/Rajesh-2312/cjits/assets/96004426/7095071f-8912-4070-9be6-ffdaa1f7ab6a)
+
 
