@@ -55,7 +55,6 @@ to give this oppurtunity to develop this kind of project and motivates me.
 # Screenshots
 ![Screenshot (115)](https://github.com/Rajesh-2312/cjits/assets/96004426/2891bcea-19fb-48fc-9a74-2f1b268a7d69)
 ![Screenshot (116)](https://github.com/Rajesh-2312/cjits/assets/96004426/b772cf49-07c7-4df6-b0f1-2c38cdca64ed)
-![Screenshot (117)](https://github.com/Rajesh-2312/cjits/assets/96004426/7cd9d0d4-cf8c-47d4-864e-a997b3aec176)
 ![Screenshot (118)](https://github.com/Rajesh-2312/cjits/assets/96004426/d577cafb-6c74-4554-a25e-0d269ce749d7)
 ![Screenshot (119)](https://github.com/Rajesh-2312/cjits/assets/96004426/61dceea0-be21-4c01-8eca-0ef13b14e18f)
 ![Screenshot (121)](https://github.com/Rajesh-2312/cjits/assets/96004426/bca2fdb8-cdff-4e81-8f75-5e1e6eb68ddb)
