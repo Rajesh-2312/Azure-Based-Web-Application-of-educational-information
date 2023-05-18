@@ -4,7 +4,7 @@ This is the web based application developed for the students in a college and us
 ### This web based application is based on education and campus connectivity that has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime.Quess, Github and EY.
 
 **project link** - https://cjits.azurewebsites.net
-** project demo video link **
+**project demo video link** - https://youtu.be/ebfxQphPunE
 
 ### About this project:☺️
 This project is the full stack development regarding to the Django web-framework
