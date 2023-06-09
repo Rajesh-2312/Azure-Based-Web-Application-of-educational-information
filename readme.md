@@ -1,4 +1,4 @@
-# 🔸Azure-Based-Web-Application-of-educational-information CJITS🔸
+# 🔸CJITS🔸
 This is the web based application developed for the students in a college and use by the students who need to use the resources in that college.
 
 ### This web based application is based on education and campus connectivity that has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime.Quess, Github and EY.
